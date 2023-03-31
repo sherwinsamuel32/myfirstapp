@@ -1,0 +1,15 @@
+[
+    {
+        "empid":"123",
+        "empname":"Raj",
+        "empcompany":"xyz",
+        "empskill":["JDBC", "core java", "SQL"]
+   },
+   {
+    "empid":"456",
+    "empname":"SAM",
+    "empcompany":"abc",
+    "empskill":["JDBC", "core java", "SQL"]
+}
+
+]
